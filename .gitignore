@@ -1,0 +1,15 @@
+*.env
+*.pem
+*.log
+*.zip
+__pycache__/
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+venv/
+*.pyc
+response.json
+test_document.txt
+src/package/
